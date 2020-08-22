@@ -8,6 +8,6 @@ foreach($data as $a){
 
 	echo $a."<br/>";}
 
-echo"<h3>@keny-127</h3>";
+echo"<h3>@kenny-127</h3>";
 
 ?>
