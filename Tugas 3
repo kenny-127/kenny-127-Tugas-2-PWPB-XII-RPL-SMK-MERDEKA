@@ -1,0 +1,13 @@
+<?php
+
+echo"<h1>Tugas 2</h1>";
+
+$data = array("Irfan","Duta","Yusuf","Ujun");
+
+foreach($data as $a){
+
+	echo $a."<br/>";}
+
+echo"<h3>@keny-127</h3>";
+
+?>
